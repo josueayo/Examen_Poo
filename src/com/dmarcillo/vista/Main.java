@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.lchaqui.vista;
-import com.lchaqui.modelo.AmazonUtil;
-import com.lchaqui.modelo.Book;
-import com.lchaqui.modelo.Chapter;
-import com.lchaqui.modelo.Magazine;
-import com.lchaqui.modelo.Movie;
-import com.lchaqui.modelo.Serie;
+package com.dmarcillo.vista;
+import com.dmarcillo.modelo.AmazonUtil;
+import com.dmarcillo.modelo.Book;
+import com.dmarcillo.modelo.Chapter;
+import com.dmarcillo.modelo.Magazine;
+import com.dmarcillo.modelo.Movie;
+import com.dmarcillo.modelo.Serie;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
