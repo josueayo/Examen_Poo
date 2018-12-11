@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.dmarcillo.vista;
-import com.dmarcillo.modelo.AmazonUtil;
-import com.dmarcillo.modelo.Book;
-import com.dmarcillo.modelo.Chapter;
-import com.dmarcillo.modelo.Magazine;
-import com.dmarcillo.modelo.Movie;
-import com.dmarcillo.modelo.Serie;
+package com.Eayo.vista;
+import com.ayo.modelo.AmazonUtil;
+import com.ayo.modelo.Book;
+import com.ayo.modelo.Chapter;
+import com.ayo.modelo.Magazine;
+import com.ayo.modelo.Movie;
+import com.ayo.modelo.Serie;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
